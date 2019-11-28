@@ -46,6 +46,13 @@
 
 ![](https://github.com/ilya132075/Drone/blob/master/Дополнение1/сборка4.jpg)
 
-Остальные фотографии приложены в ![Дополнении 1](https://github.com/ilya132075/Drone/blob/master/Дополнение1)
+Пайка бортового компьютера на базе Arduino Uno.
+
+![](https://github.com/ilya132075/Drone/blob/master/Дополнение1/сборка5.jpg)
+
+Пайка гироскопа.
+![](https://github.com/ilya132075/Drone/blob/master/Дополнение1/сборка6.jpg)
+
+
 # 2 Этап(база данных)
 код см. в BD
