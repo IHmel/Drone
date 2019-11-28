@@ -46,6 +46,6 @@
 
 ![](https://github.com/ilya132075/Drone/blob/master/Дополнение1/сборка4.jpg)
 
-Остальные фотографии приложены в ![](https://github.com/ilya132075/Drone/blob/master/Дополнение1)
+Остальные фотографии приложены в ![Дополнении 1](https://github.com/ilya132075/Drone/blob/master/Дополнение1)
 # 2 Этап(база данных)
 код см. в BD
