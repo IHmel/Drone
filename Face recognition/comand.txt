@@ -1,0 +1,2 @@
+python recognize_faces_video.py --encodings encodings.pickle --output C:\Users\prost\Desktop\cusach/test1.avi --display 1
+python encode_faces.py --dataset dataset --encodings encodings.pickle
