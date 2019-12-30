@@ -37,7 +37,16 @@ $ python3 editor.py edit "Column name" "'New information'" "ID" "'Number of pers
 ```ShellSession
 $ python3 editor.py delete "Column name" "'Information from this column of the person whom you want to delete'" 
 ```
+Для того, чтобы лицо человека возможно было рапознать первым делом некоторое колличество его фотогафи нужно внести в папку с именем человека в dataset и запустить программу 
+```ShellSession
+$ python encode_faces.py --dataset "path to images" --encodings encodings.pickle
+```
+По завершению программы будут обработаны изображения, а вектор значений для найшей системы распознания будет записан в encodings.pickle
 
+Для работы с распознанием лиц воспользуйтесь
+```ShellSession
+$ python recognize_faces_video.py --encodings encodings.pickle --output "записать видео с распознанием лиц(имя файла)" --display "0/1"
+```
 # Техническое задание
   - [x] 1.Собрать функционирующие модель дрона.
 
