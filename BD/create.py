@@ -5,6 +5,5 @@ cursor = conn.cursor()
  
 # Создание таблицы
 cursor.execute("""CREATE TABLE BMSTU
-                  (ID text, NAME text, INFO text,
-                   N_PHOTO text)
+                  (ID text, NAME text, INFO text)
                """)
